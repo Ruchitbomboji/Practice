@@ -1,0 +1,77 @@
+body {
+    background: #fff;
+    color: #222;
+    font-family: "Segoe UI", Arial, "Times New Roman", sans-serif;
+}
+
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logo img {
+    height: 28px;
+}
+
+nav ul {
+    background: #fff;
+    color: #000;
+    display: flex;
+    gap: 50px;
+    list-style-type: none;
+}
+
+nav ul li {
+    color: #bdbdbd;
+    font-size: 20px;
+}
+
+.cust-home {
+    color: #000;
+    font-weight: 500;
+}
+
+main {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+main h1 {
+    font-size: 40px;
+    font-weight: 450;
+}
+
+.exclusive {
+    color: #8acde7;
+    font-weight: 500;
+}
+
+.desc {
+    color: #888;
+    font-size: 15px;
+}
+
+.desc strong {
+    color: #222;
+    font-weight: 600;
+}
+
+.Fitness-Model img {
+    height: auto;
+    width: 340px;
+    margin: 30px;
+}
+
+footer {
+    text-align: center;
+    color: #444;
+    font-size: 20px;
+}
+
+.reach {
+    color: #222;
+    font-weight: 700;
+    font-size: 15px;
+}
